@@ -10,6 +10,6 @@
 ![image](https://github.com/HuyLong152/Food_app/assets/111405703/955e35b2-020d-455d-be25-d0a159b682c0)
 ![image](https://github.com/HuyLong152/Food_app/assets/111405703/8fc2239a-caa7-456e-ab3c-36e5113a3ded)
 ![image](https://github.com/HuyLong152/Food_app/assets/111405703/a04a9bec-46d4-4a0c-8d2a-32dd2ba48b39)
-![image](https://github.com/HuyLong152/Food_app/assets/111405703/5a3acd9f-d014-4ef7-9ee4-bb810f67cd63)
-![image](https://github.com/HuyLong152/Food_app/assets/111405703/5582366a-ea24-464c-a91d-55d4eed598e4)
+![image](https://github.com/HuyLong152/FoodApp/assets/111405703/15a8bca3-6162-4664-bf19-fce0782ea72c)
+![image](https://github.com/HuyLong152/FoodApp/assets/111405703/f7b47b11-c1a3-4c8a-a775-86286bb14bfc)
 ![image](https://github.com/HuyLong152/Food_app/assets/111405703/5654fe9d-4afe-41f0-9a88-4db83bec2bf1)
