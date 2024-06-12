@@ -9,7 +9,11 @@
 ![image](https://github.com/HuyLong152/Food_app/assets/111405703/5e378d91-c05e-433e-9d1d-0fa594cc2ec8)
 ![image](https://github.com/HuyLong152/Food_app/assets/111405703/955e35b2-020d-455d-be25-d0a159b682c0)
 ![image](https://github.com/HuyLong152/Food_app/assets/111405703/8fc2239a-caa7-456e-ab3c-36e5113a3ded)
-![image](https://github.com/HuyLong152/Food_app/assets/111405703/a04a9bec-46d4-4a0c-8d2a-32dd2ba48b39)
+![image](https://github.com/HuyLong152/FoodApp/assets/111405703/44b23eee-0679-4006-9ef6-90c06c37f95d)
 ![image](https://github.com/HuyLong152/FoodApp/assets/111405703/15a8bca3-6162-4664-bf19-fce0782ea72c)
 ![image](https://github.com/HuyLong152/FoodApp/assets/111405703/f7b47b11-c1a3-4c8a-a775-86286bb14bfc)
 ![image](https://github.com/HuyLong152/Food_app/assets/111405703/5654fe9d-4afe-41f0-9a88-4db83bec2bf1)
+![image](https://github.com/HuyLong152/FoodApp/assets/111405703/1d33c5c2-3101-4dc7-8e34-89d5da6adb3f)
+![image](https://github.com/HuyLong152/FoodApp/assets/111405703/d809504d-3c6b-413a-9af0-be170903f4bb)
+
+
